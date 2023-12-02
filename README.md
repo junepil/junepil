@@ -1,10 +1,12 @@
-<h2 align="center">Junepil Lee 🤔</h2>
+# Junepil Lee
+- Konkuk Univ, dept of CSE
+- Currently working on ROKAF(2022.10.31~2024.07.30)
+- Interested at system engineering
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+### Stacks
+![git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
+![docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white)
+![vue3](https://img.shields.io/badge/vue3.js-4FC08D?logo=vuedotjs&logoColor=white)
+![springboot](https://img.shields.io/badge/springboot-6DB33F?logo=springboot&logoColor=white)
+![sass](https://img.shields.io/badge/sass-CC6699?logo=sass&logoColor=white)
+![typescript](https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white)
