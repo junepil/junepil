@@ -1,9 +1,9 @@
 # Junepil Lee
 - Konkuk Univ, dept of CSE
 - Currently working on ROKAF(2022.10.31~2024.07.30)
-- Interested at system engineering
+- Interested at OS, FE
 
-### Stacks
+## Stacks
 ![git](https://img.shields.io/badge/git-F05032?logo=git&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white)
 ![vue3](https://img.shields.io/badge/vue3.js-4FC08D?logo=vuedotjs&logoColor=white)
