@@ -9,7 +9,7 @@
 ## Personal Contact
 phone: +82 10-5041-0009
 
-email: hanu9257@gmail.com
+email: pil0009@konkuk.ac.kr
 
 ## Experiences
 - Konkuk Univ, dept of CSE: 2021.03 - current
