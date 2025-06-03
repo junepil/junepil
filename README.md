@@ -7,9 +7,9 @@
 <img style="height:256px; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junepil&layout=compact&theme=nord&hide_border=true" />
 
 ## Experiences
-- Konkuk Univ, dept of CSE: 2021.03 ~ current
+- Konkuk Univ, dept of CSE: 2021.03 - current
 - Worked at ROKAF Intelligence Information Systems Management Group: 2022.10.31~2024.07.30
-- [GDGoc Konkuk](): 2024.07 ~ current
+- [GDGoc Konkuk](): 2024.07 - current
 
 ## Projects
 ### HR System for goverment workers in ROKAF
