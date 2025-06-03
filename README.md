@@ -1,10 +1,15 @@
 # Junepil Lee
 
 - Interested at Infra structure, Front-end development, UI, bouldering
-- Big fan of git, had even opened [the study](https://github.com/gdsc-konkuk/24-25-git-study) for the newbie
+- Big fan of git, I had even opened [the study](https://github.com/gdsc-konkuk/24-25-git-study) for the newbie in GDGoc Konkuk
 - Starting to contribute on open source projects
 
-<img style="height:256px; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junepil&layout=compact&theme=nord&hide_border=true" />
+<img style="height:200px; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junepil&layout=compact&theme=nord&hide_border=true" />
+
+## Personal Contact
+phone: +82 10-5041-0009
+
+email: hanu9257@gmail.com
 
 ## Experiences
 - Konkuk Univ, dept of CSE: 2021.03 - current
