@@ -1,7 +1,8 @@
 # Junepil Lee
 
 - Interested at Infra structure, Front-end development, UI, bouldering
-- Big fan of git, even opened my own study   
+- Big fan of git, had even opened [the study](https://github.com/gdsc-konkuk/24-25-git-study) for the newbie
+- Starting to contribute on open source projects
 
 <img style="height:256px; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junepil&layout=compact&theme=nord&hide_border=true" />
 
