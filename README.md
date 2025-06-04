@@ -10,8 +10,8 @@ Typescript and Javascript developer based on Seoul, Korea🇰🇷
 <img style="height:200px; display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junepil&layout=compact&theme=nord&hide_border=true" />
 
 ## Personal Contact
-phone: +82 10-5041-0009
-email: pil0009@konkuk.ac.kr
+- phone: +82 10-5041-0009
+- email: pil0009@konkuk.ac.kr
 
 ## Experiences
 - Konkuk Univ, dept of CSE: 2021.03 - current
