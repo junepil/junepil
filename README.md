@@ -8,10 +8,6 @@ Also using go, python and kotlin for some projects :)
 - Big fan of git, I had even open [the study](https://github.com/gdsc-konkuk/24-25-git-study) for the newbies in GDGoc Konkuk
 - Love learning new languages, I mean real *lauguages*. Available for japanese🇯🇵, spanish🇪🇸, english🇺🇸 and obviously korean🇰🇷
 
-## Personal Contact
-- [Linkedin](https://www.linkedin.com/in/junepil-lee-648941245/)
-- email: pil0009@konkuk.ac.kr
-
 ## Experiences
 - Konkuk Univ, dept of CSE: 2021.03 - current
 - ROKAF Intelligence Information Systems Management Group: 2022.10 - 2024.07
